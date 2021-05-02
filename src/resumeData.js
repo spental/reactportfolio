@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Kyle Talbott",
     "role": "Lead Career & Technical Education Teacher ",
     "linkedinId":"https://www.linkedin.com/in/kyle-talbott-18aba91ba/",
-    "skypeid": "Your skypeid",
+    "skypeid": "https://twitter.com/spencer25242485",
     "roleDescription": "CTE stands for Career and Technical Education. CTE programs are generally a three-year sequence of high school elective classes that provide students with the academic and technical skills, knowledge and training necessary to succeed in 21st-century careers.",
     "socialLinks":[
         {
@@ -39,7 +39,6 @@ let resumeData = {
       {
         "CompanyName":"King & Queen County Public Schools ",
         "Specialization":"Department Chair",
-        "Start:":"AUG,2017",
         
       },
     ],
