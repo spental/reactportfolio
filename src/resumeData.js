@@ -58,7 +58,7 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/farmboy.jpg"
+        "imgurl":"images/farmerboy.jpg"
       },
       {
         "name":"project2",
