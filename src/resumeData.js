@@ -63,20 +63,21 @@ let resumeData = {
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"./images/portfolio/project.jpg"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/project2.png"
+        "imgurl":"project2.png"
       },
       {
-        "name":"Budget Tracker",
+        "name":"project4",
         "description":"Keep your money in order...",
-        "imgurl":"images/money.png"
+        "url":"https://momoneymoproblems.herokuapp.com/",
+        "imgurl":"money.png"
       }
     ]
 
-  }
+  };
   
   export default resumeData
