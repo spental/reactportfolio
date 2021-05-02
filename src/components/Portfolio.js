@@ -13,12 +13,11 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="#modal-01">
+                    <a href="https://momoneymoproblems.herokuapp.com/">
                       <img src={`${item.imgurl}`} href={`${item.url}`} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
-                          <a href={`${item.url}`} >Hello world </a>
                           <p>{item.description}</p>
                         </div>
                       </div>
