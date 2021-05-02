@@ -58,17 +58,17 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/phone.jpg"
+        "imgurl":"images/farmboy.jpg"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/project.jpg"
+        "imgurl":"images/girl.jpg"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/project2.png"
+        "imgurl":"images/judah.jpg"
       },
       {
         "name":"project4",
