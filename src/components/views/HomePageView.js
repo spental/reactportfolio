@@ -1,6 +1,5 @@
 import React from "react";
 import "./styles/PageView.css";
-import ParticlesBg from "particles-bg";
 import { Link } from "react-router-dom";
 
 const HomePageView = () => {
