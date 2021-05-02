@@ -73,7 +73,7 @@ let resumeData = {
       {
         "name":"Budget Tracker",
         "description":"Keep your money in order...",
-        "url":"images/money.png"
+        "imgurl":"images/money.png"
       }
     ]
 
