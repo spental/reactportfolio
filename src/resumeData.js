@@ -58,17 +58,23 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/retrocam.jpg"
+        "imgurl":"images/retrocam.jpg",
+        "url":"https://momoneymoproblems.herokuapp.com/"
+
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/girl.jpg"
+        "imgurl":"images/girl.jpg",
+        "url":"https://momoneymoproblems.herokuapp.com/"
+
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/judah.jpg"
+        "imgurl":"images/judah.jpg",
+        "url":"https://momoneymoproblems.herokuapp.com/"
+
       },
       {
         "name":"project4",
