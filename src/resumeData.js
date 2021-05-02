@@ -43,13 +43,13 @@ let resumeData = {
         
       },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Top Qualities ",
     "skills":[
       {
-        "skillname":""
+        "skillname":"Teaching"
       },
       {
-        "skillname":""
+        "skillname":"Leadership"
       },
       {
         "skillname":"Programing"
