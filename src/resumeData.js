@@ -18,7 +18,7 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"http://twitter.com",
+          "url":"https://twitter.com/spencer25242485",
           "className":"fa fa-twitter"
         }
       ],
@@ -69,7 +69,7 @@ let resumeData = {
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/project2.png"
       },
       {
         "name":"Budget Tracker",
