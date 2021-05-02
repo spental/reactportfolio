@@ -76,17 +76,8 @@ let resumeData = {
         "description":"Keep your money in order...",
         "imgurl":"https://momoneymoproblems.herokuapp.com/"
       }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
     ]
+
   }
   
   export default resumeData
