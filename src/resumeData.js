@@ -58,21 +58,21 @@ let resumeData = {
       {
         "name":"Note Taker Application",
         "description":"My note Taker ",
-        "imgurl":"images/retrocam.jpg",
+        "imgurl":"images/note.jpg",
         "url":"https://my-adhd-helper.herokuapp.com/"
 
       },
       {
         "name":"Workout Tracker",
         "description":"Track your Health",
-        "imgurl":"images/girl.jpg",
+        "imgurl":"images/fit.jpg",
         "url":"https://workalerts.herokuapp.com/?id=608f3489e044c90021bdaa6f"
 
       },
       {
         "name":"Burger Maker",
         "description":"Create Patties ",  
-        "imgurl":"images/judah.jpg",
+        "imgurl":"images/burger.jpg",
         "url":"https://blooming-scrubland-22942.herokuapp.com/"
 
       },
