@@ -74,7 +74,7 @@ let resumeData = {
       {
         "name":"Budget Tracker",
         "description":"Keep your money in order...",
-        "imgurl":"https://momoneymoproblems.herokuapp.com/"
+        "url":"images/money.png"
       }
     ]
 
