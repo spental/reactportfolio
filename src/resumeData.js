@@ -37,30 +37,22 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"King & Queen County Public Schools ",
+        "Specialization":"Department Chair",
+        "Start:":"AUG,2017",
+        
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":""
       },
       {
-        "skillname":"CSS"
+        "skillname":""
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Programing"
       }
     ],
     "portfolio":[
@@ -80,9 +72,9 @@ let resumeData = {
         "imgurl":"images/portfolio/project2.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Budget Tracker",
+        "description":"Keep your money in order...",
+        "imgurl":"https://momoneymoproblems.herokuapp.com/"
       }
     ],
     "testimonials":[
