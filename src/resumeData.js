@@ -73,8 +73,8 @@ let resumeData = {
       {
         "name":"project4",
         "description":"Keep your money in order...",
-        "url":"https://momoneymoproblems.herokuapp.com/"
-        
+        "url":"https://momoneymoproblems.herokuapp.com/",
+        "imgurl":"images/money.png"
       }
     ]
 
