@@ -56,24 +56,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
+        "name":"Note Taker Application",
+        "description":"My note Taker ",
         "imgurl":"images/retrocam.jpg",
-        "url":"https://momoneymoproblems.herokuapp.com/"
+        "url":"https://my-adhd-helper.herokuapp.com/"
 
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
+        "name":"Workout Tracker",
+        "description":"Track your Health",
         "imgurl":"images/girl.jpg",
-        "url":"https://momoneymoproblems.herokuapp.com/"
+        "url":"https://workalerts.herokuapp.com/?id=608f3489e044c90021bdaa6f"
 
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
+        "name":"Burger Maker",
+        "description":"Create Patties ",  
         "imgurl":"images/judah.jpg",
-        "url":"https://momoneymoproblems.herokuapp.com/"
+        "url":"https://blooming-scrubland-22942.herokuapp.com/"
 
       },
       {
