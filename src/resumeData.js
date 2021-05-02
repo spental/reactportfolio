@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://spental.github.io/",
     "name": "Kyle Talbott",
     "role": "Lead Career & Technical Education Teacher ",
     "linkedinId":"https://www.linkedin.com/in/kyle-talbott-18aba91ba/",
