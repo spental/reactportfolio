@@ -22,10 +22,12 @@ export default class Porfolio extends Component {
                         </div>
                       </div>
                     </a>
-                    <a href={item.url} >hello 
-                    </a>
+                    
                   </div>
+                  <a href={item.url} >hello 
+                    </a>
                 </div>
+                
               )
             })
           }
