@@ -59,13 +59,15 @@ let resumeData = {
         "name":"Note Taker Application",
         "description":"My note Taker ",
         "imgurl":"images/note.png",
-        "url":"https://my-adhd-helper.herokuapp.com/"
+        "url":"https://my-adhd-helper.herokuapp.com/",
+        "giturl":"https://github.com/spental/MyADHDhelper"
 
       },
       {
         "name":"Workout Tracker",
         "description":"Track your Health",
         "imgurl":"images/fit.png",
+        "giturl":"https://github.com/spental/hw17-WorkOutTracker",
         "url":"https://workalerts.herokuapp.com/?id=608f3489e044c90021bdaa6f"
 
       },
@@ -73,13 +75,15 @@ let resumeData = {
         "name":"Burger Maker",
         "description":"Create Patties ",  
         "imgurl":"images/burger.png",
+        "giturl":"https://github.com/spental/burger",
         "url":"https://blooming-scrubland-22942.herokuapp.com/"
 
       },
       {
-        "name":"project4",
+        "name":"Budget Tracker",
         "description":"Keep your money in order...",
         "url":"https://momoneymoproblems.herokuapp.com/",
+        "giturl":"https://github.com/spental/moremoneymoreproblems",
         "imgurl":"images/money.png"
       }
     ]

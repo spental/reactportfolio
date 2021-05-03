@@ -24,8 +24,9 @@ export default class Porfolio extends Component {
                     </a>
                     
                   </div>
-                  <a href={item.url} >Click Here For Heroku Link
-                    </a>
+                  <a href={item.url} >Application Deployed </a>
+                  <a href={item.giturl} >GitHub Link </a>
+
                 </div>
                 
               )
