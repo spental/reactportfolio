@@ -24,8 +24,15 @@ export default class Porfolio extends Component {
                     </a>
                     
                   </div>
-                  <a href={item.url} >Application Deployed </a>
-                  <a href={item.giturl} >GitHub Link </a>
+                  <ul>
+                    <li>                 
+                       <a href={item.url} >Application Deployed </a>
+                    </li>
+                    <li>
+                    <a href={item.giturl} >GitHub Link </a>
+                    </li>
+                  </ul>
+                  
 
                 </div>
                 
