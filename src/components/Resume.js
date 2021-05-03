@@ -31,6 +31,9 @@ export default  class Resume extends Component {
               }
             </div>
          </div>
+         <div>
+           <a href="https://github.com/spental/SpencerTeacherProfile/blob/main/attachments/Kyle_Talbott_Resume.PDF"> Resume</a>
+         </div>
         <div className="row work">
             <div className="three columns header-col">
                <h1><span>Work</span></h1>
