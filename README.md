@@ -1,5 +1,5 @@
 # Let's Plan a Day
-JHU Coding Bootcamp-Project 1 (Anthony, Jackie, Kyle, Nick)
+JHU Coding Bootcamp React Portfolio
 # Description
 -  React Profile 
 # Screenshots
