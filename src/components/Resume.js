@@ -34,7 +34,9 @@ export default  class Resume extends Component {
          
         <div className="row work">
             <div className="three columns header-col">
-               <h1><span>Work</span></h1>
+               <h1><span>Work</span><div>
+           <a href="https://github.com/spental/SpencerTeacherProfile/blob/main/attachments/Kyle_Talbott_Resume.PDF"> Resume</a>
+         </div></h1>
             </div>
 
             <div className="nine columns main-col">
@@ -48,9 +50,7 @@ export default  class Resume extends Component {
                           {item.specialization}
                           <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
                           <p>
-                          <div>
-           <a href="https://github.com/spental/SpencerTeacherProfile/blob/main/attachments/Kyle_Talbott_Resume.PDF"> Resume</a>
-         </div>
+                          
                           </p>
                        </div>
 
