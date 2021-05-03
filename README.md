@@ -4,7 +4,7 @@ JHU Coding Bootcamp-Project 1 (Anthony, Jackie, Kyle, Nick)
 -  React Profile 
 # Screenshots
 - Home page
- ![homepage](./images/demo.png)
+ ![homepage](public/images/demo.png)
 # Links
 ### Link to GitHub
 https://spental.github.io/reactportfolio/
